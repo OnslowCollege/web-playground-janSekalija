@@ -1,0 +1,117 @@
+@import url(https://fonts.googleapis.com/css?family=Darumadrop+One);
+@import url(https://fonts.googleapis.com/css?family=Zen+Kurenaido);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
+@import url(https://fonts.googleapis.com/css?family=Chiron+GoRound+TC);
+span {
+        font-family: 'Ubuntu Mono';
+        font-weight:100;
+}
+
+.hmmMMmMmMmMMM {
+font-family: 'Chiron GoRound TC'
+}
+
+h1 {
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 100px;
+    margin: 0;
+    font-family: 'Darumadrop One';
+    font-size: 100px;
+    color: #fffffa
+}
+
+body {
+    background-color: #264653;
+}
+
+
+div {
+    width: 100%;
+    height: 600px;
+}
+
+.img-right {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 30px;
+    height: 500px;
+    float: right;
+}
+
+.text-right {
+    text-align: right;
+    margin-top: 100px;
+    font-size: 75px;
+    font-family: 'Zen Kurenaido';
+    color: #E9C46A;
+}
+
+.text-trans-right {
+    text-align: right;
+    margin-top: -75px;
+    font-size: 30px;
+    font-family: 'Zen Kurenaido';
+    color: #ffdac6;
+}
+
+.text-p-right {
+    text-align: right;
+    margin-top: -30px;
+    margin-left: 150px;
+    font-size: 20px;
+    font-family: 'Zen Kurenaido';
+    color: #fefae0;
+}
+
+.a-right {
+    text-align: right;
+    margin-top: 0%;
+    font-size: 20px;
+    font-family: 'Zen Kurenaido';
+    color: #d8c99b;
+}
+
+.img-left {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right: 30px;
+    height: 500px;
+    float: left;
+}
+
+.text-left {
+    text-align: left;
+    margin-top: 100px;
+    font-size: 75px;
+    font-family: 'Zen Kurenaido';
+    color: #E9C46A;
+
+}
+
+.text-trans-left {
+    text-align: left;
+    margin-top: -75px;
+    font-size: 30px;
+    font-family: 'Zen Kurenaido';
+    color: #ffdac6;
+}
+
+.text-p-left {
+    text-align: left;
+    margin-top: -30px;
+    margin-right: 150px;
+    font-size: 20px;
+    font-family: 'Zen Kurenaido';
+    color: #fefae0;
+}
+
+.a-left {
+    text-align: left;
+    margin-top: 0%;
+    font-size: 20px;
+    font-family: 'Zen Kurenaido';
+    color: #d8c99b;
+}
